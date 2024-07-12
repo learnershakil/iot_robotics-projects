@@ -52,7 +52,7 @@ Have questions, suggestions, or just want to share your thoughts? Connect with m
 
 - 📧 Email: learnershakil@gmail.com
 - 💼 LinkedIn: [Shakil Ahmad](https://www.linkedin.com/in/learnershakil/)
-- 📸 Instagram: [_mr.learner_](https://www.instagram.com/_mr.learner_/)
+- 📸 Instagram: [learnershakil](https://www.instagram.com/learnershakil)
 - 🐙 GitHub: [learnershakil](https://github.com/learnershakil)
 
 ## 🌟 Acknowledgments
